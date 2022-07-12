@@ -21,6 +21,6 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-GIT logo by Abid Ali Awan - https://www.datacamp.com/profile/kingabzpro
+GIT logo by Abid Ali Awan - [https://www.datacamp.com/profile/kingabzpro](https://www.datacamp.com/profile/kingabzpro)
 
 license: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ru)
